@@ -1,0 +1,4 @@
+{
+    "short_url": "1cd2fxj7",
+    "short_url_link": "http://localhost:5000/url/1cd2fxj7"
+}
